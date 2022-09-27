@@ -80,16 +80,65 @@ Pictures / Gifs of your work should go here.  You need to communicate what your 
 ### Wiring
 
 ### Reflection
-
+This assignment was a litlle more difficult then the previous one but not too hard and I learned a lot more about CPython.
 
 
 
 ## CircuitPython_LCD
 
 ### Description & Code
+This assignment we need to print numbers on an LCD that can count up and down using buttons.
+```# get and i2c object
+i2c = board.I2C()
+btn = DigitalInOut(board.D3)
+btn2 = DigitalInOut(board.D4)
+btn.direction = Direction.INPUT
+btn.pull = Pull.UP
+# some LCDs are 0x3f... some are 0x27.
+lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
+cur_state = True
+prev_state = True
+prev_state2 = True
 
-```python
-Code goes here
+buttonPress = 0
+delta = 1
+
+lcd.set_cursor_pos(1, 15)
+lcd.print("+")
+lcd.set_cursor_pos(0, 0)
+lcd.print("BTN is up  ")
+
+while True:
+    cur_state2 = btn2.value
+    if cur_state2 != prev_state2:
+        if not cur_state2:
+            delta = -delta #changes delta to negative
+            if delta > 0:
+                lcd.set_cursor_pos(1, 15)
+                lcd.print("+")
+            else:
+                lcd.set_cursor_pos(1, 15)
+                lcd.print("-")
+    
+    prev_state2 = cur_state2
+
+    cur_state = btn.value
+    if cur_state != prev_state:
+        if not cur_state:
+            buttonPress = buttonPress + delta #depending on delta value button press will have a posotive or negative value added to it
+            lcd.set_cursor_pos(0, 0)
+            lcd.print("BTN is down")
+        else:
+            lcd.set_cursor_pos(0, 0)
+            lcd.print("BTN is up  ")
+        
+        lcd.set_cursor_pos(1, 0)
+        lcd.print("BTN Press:")
+        lcd.print(str(buttonPress))     
+        lcd.print(" ")
+
+    prev_state = cur_state
+    time.sleep(.05) #delay is .05 of a second
 
 ```
 
@@ -100,7 +149,7 @@ Pictures / Gifs of your work should go here.  You need to communicate what your 
 ### Wiring
 
 ### Reflection
-
+This assignment was very difficult but I managed to do it. It deffinatly taught me a lot about CPython.
 
 
 
