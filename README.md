@@ -77,6 +77,7 @@ while True:
 ![image](https://github.com/matthewbowling123/CPython/blob/master/Images/IMG-0413%20(2).MOV)
 
 ### Wiring
+![image](https://user-images.githubusercontent.com/112979288/193122380-858af000-209d-4212-bf57-06e1568c96f2.png)
 
 ### Reflection
 This assignment was a litlle more difficult then the previous one but not too hard and I learned a lot more about CPython.
