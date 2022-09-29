@@ -141,7 +141,7 @@ while True:
 ![image](https://github.com/matthewbowling123/CPython/blob/master/Images/IMG-0437%20(1).MOV)
 
 ### Wiring
-![image](https://user-images.githubusercontent.com/112979288/193122987-4dc41856-8497-4f57-8a7e-416c5cf6bbef.png)
+
 
 ### Reflection
 This assignment was very difficult but I managed to do it. It deffinatly taught me a lot about CPython.
