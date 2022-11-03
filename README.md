@@ -149,17 +149,33 @@ This assignment was very difficult but I managed to do it. It deffinatly taught 
 
 
 
-## NextAssignment
+## Motor Control
 
 ### Description & Code
 
-```python
-Code goes here
+```import board
+import time
+from analogio import AnalogOut, AnalogIn
+import simpleio
+
+motor = AnalogOut(board.A1)
+pot = AnalogIn(board.A0)
+
+while True:
+    print(simpleio.map_range(pot.value, 96, 65520, 0, 65535))
+    motor.value = int(simpleio.map_range(pot.value, 96, 65520, 0, 65535))
+    time.sleep(.1)
 
 ```
 
 ### Evidence
 
+
+https://user-images.githubusercontent.com/112979288/199817203-d69ee332-9d6f-46f2-a885-088d9efbf0a8.MOV
+
+
 ### Wiring
+![image](https://user-images.githubusercontent.com/112979288/199819107-4601f0b6-d339-412a-a06d-b9a65ec0ded4.png)
 
 ### Reflection
+I had done this assignmemnt last year so I did not find it too difficult. I still did think however that it was good practice for CPython.
