@@ -277,3 +277,34 @@ while True:
 
 ### reflection
 This project was difficult to figure out, Using other peoples Githubs was easily the most helpfull part and i doubt i could have completed it without those.
+
+## Photointerruptor
+
+### code
+```import time
+import digitalio
+import board
+
+photoI = digitalio.DigitalInOut(board.D7)
+photoI.direction = digitalio.Direction.INPUT
+photoI.pull = digitalio.Pull.UP
+
+last_photoI = True
+last_update = -4
+
+photoICrosses = 0
+
+while True:
+    if time.monotonic()-last_update > 4:
+        print(f"The number of crosses is {photoICrosses}")
+        last_update = time.monotonic()
+    
+    if last_photoI != photoI.value and not photoI.value:
+        photoICrosses += 1
+    last_photoI = photoI.value
+```
+### wiring
+![68747470733a2f2f726976717565732e6769746875622e696f2f646f63732f70686f746f696e74636972637569742e706e67](https://user-images.githubusercontent.com/112979288/228960276-fcf0cf46-c8bb-44de-8479-41e7e4d952da.png)
+
+### reflection
+We did this in engineering 2 so i just did the exact same thing.
