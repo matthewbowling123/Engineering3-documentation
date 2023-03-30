@@ -233,3 +233,47 @@ while True:
 ### Credit
 credit to river for most of thiscode and video. He figured out how it works and also how to run CPython code while its github connnection was down.
 
+## Rotary Encoder
+
+### code
+again, all credit goes to River with this code. I couldent figure out the Encoder.
+```import rotaryio
+import board
+import digitalio
+import neopixel
+from lcd.lcd import LCD
+from lcd.i2c_pcf8574_interface import I2CPCF8574Interface
+
+# get and i2c object
+i2c = board.I2C()
+
+# some LCDs are 0x3f... some are 0x27.
+lcd = LCD(I2CPCF8574Interface(i2c, 0x27), num_rows=2, num_cols=16)
+
+led: neopixel.Neopixel = neopixel.NeoPixel(board.NEOPIXEL, 1) # initialization of hardware
+print("neopixel")
+
+led.brightness = 0.1
+
+button = digitalio.DigitalInOut(board.D12)
+button.direction = digitalio.Direction.INPUT
+button.pull = digitalio.Pull.UP
+
+colors = [("stop", (255, 0, 0)), ("caution", (128, 128, 0)), ("go", (0, 255, 0))]
+
+encoder = rotaryio.IncrementalEncoder(board.D10, board.D9, 2)
+last_position = None
+while True:
+    position = encoder.position
+    if last_position is None or position != last_position:
+        lcd.clear()
+        lcd.print(colors[position % len(colors)][0])
+    if(not button.value):
+        led[0] = colors[position % len(colors)][1]
+    last_position = position
+```
+
+### Wiring
+
+### reflection
+This project was difficult to figure out, Using other peoples Githubs was easily the most helpfull part and i doubt i could have completed it without those.
