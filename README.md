@@ -274,6 +274,8 @@ while True:
 ```
 
 ### Wiring
+![image](https://user-images.githubusercontent.com/112979288/236309062-a446f74f-1e2b-4d4c-a475-9ccb8ec87165.png)
+
 
 ### reflection
 This project was difficult to figure out, Using other peoples Githubs was easily the most helpfull part and i doubt i could have completed it without those.
