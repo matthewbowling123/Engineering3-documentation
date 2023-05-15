@@ -11,6 +11,7 @@
 * [Multi part studio](#Multi-part-studio)
 * [Assembly Practice](#Assembly-Practice)
 * [Cerification prep 2](#Cerification-prep-2)
+* [Onshape Certification](#Onshape-Certification)
 ### CPython
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
