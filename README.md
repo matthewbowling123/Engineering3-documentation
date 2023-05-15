@@ -10,7 +10,7 @@
 * [Assembling the Launcher](#Assembling-the-Launcher)
 * [Multi part studio](#Multi-part-studio)
 * [Assembly Practice](#Assembly-Practice)
-* [Cerification prep 2](#Cerification-prep 2)
+* [Cerification prep 2](#Cerification-prep-2)
 ### CPython
 
 ## Phone Box Project
@@ -138,7 +138,10 @@ This repository will actually serve as a aid to help you get started with your o
 * [Hello_CircuitPython](#Hello_CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_LCD](#CircuitPython_LCD)
-* [NextAssignmentGoesHere](#NextAssignment)
+* [Motor Control](#Motor-Control)
+* [Tempreture Sensor](#Tempreture-Sensor)
+* [Rotary Encoder](#Rotary-Encoder)
+* [Photointerruptor](#Photointerruptor)
 ---
 
 ## Hello_CircuitPython
