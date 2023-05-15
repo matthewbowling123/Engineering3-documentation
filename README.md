@@ -3,6 +3,21 @@
 ---
 ## Table of Contents
 * [Table of Contents](#Table-of-Contents)
+
+## Phone Box Project
+
+### Description
+for this assignment, Myself and two partners of mine were asked to make abox that allowed a phone to be out of sight but safe.
+
+### Evidence
+[The Phone Box in Onshape](https://cvilleschools.onshape.com/documents/e41939a3da1f2aeaf3ba05f4/w/8aeafb7257432aa3f73059fc/e/54e940d5e715c1106afdddda)
+
+### Image
+![Assembly 1](https://github.com/matthewbowling123/CPython/assets/112979288/76c7283a-9d4e-4ebd-b666-9f9c89d55e35)
+
+### Reflection
+This assignment was a good exercise in reminding myself and my partners how Onshape worked. Our Solenoid ended up wired wrong and overheated resulting in a failed lock for the box. Pther than that our project went really well.
+
 ## Swing Arm
 
 ### Description
