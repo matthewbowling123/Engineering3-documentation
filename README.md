@@ -12,7 +12,14 @@
 * [Assembly Practice](#Assembly-Practice)
 * [Cerification prep 2](#Cerification-prep-2)
 ### CPython
-
+* [Hello_CircuitPython](#Hello_CircuitPython)
+* [CircuitPython_Servo](#CircuitPython_Servo)
+* [CircuitPython_LCD](#CircuitPython_LCD)
+* [Motor Control](#Motor-Control)
+* [Tempreture Sensor](#Tempreture-Sensor)
+* [Rotary Encoder](#Rotary-Encoder)
+* [Photointerruptor](#Photointerruptor)
+---
 ## Phone Box Project
 
 ### Description
@@ -132,17 +139,7 @@ This was not a very difficult assignment but it took me longer than i though it 
 
 
 # CircuitPython
-This repository will actually serve as a aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts).
-## Table of Contents
-* [Table of Contents](#TableOfContents)
-* [Hello_CircuitPython](#Hello_CircuitPython)
-* [CircuitPython_Servo](#CircuitPython_Servo)
-* [CircuitPython_LCD](#CircuitPython_LCD)
-* [Motor Control](#Motor-Control)
-* [Tempreture Sensor](#Tempreture-Sensor)
-* [Rotary Encoder](#Rotary-Encoder)
-* [Photointerruptor](#Photointerruptor)
----
+This repository will actually serve as a aid to help you get started with your own template.  You should copy the raw form of this readme into your own, and use this template to write your own.  If you want to draw inspiration from other classmates, feel free to check [this directory of all students!](https://github.com/chssigma/Class_Accounts)
 
 ## Hello_CircuitPython
 
