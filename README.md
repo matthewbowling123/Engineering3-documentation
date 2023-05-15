@@ -51,7 +51,7 @@ for this assignment I was given a chart on some of the dimensions and was asked 
 
 ### Reflection
 
-This was a difficult assignment and I had to do it with Mr. Helmstetters help outside of class during Bacon. However now that I have finished it I learned a lot more about constraints and other tools in Onshape.
+This was a difficult assignment and I had to do it with Mr. Helmstetters help outside of class during Bacon. However now that I have finished it I learned a lot more about constraints and other tools in Onshape. This would prove very usefull for the cetification exam which had a very similer part to it.
 
 ---
 
@@ -88,7 +88,7 @@ for this assignment my partner and I continued making the pull copeter began ass
 ![Assembly 1](https://user-images.githubusercontent.com/112979288/197863935-3eea53dd-884c-4b8c-9407-9535857d37e6.png)
 
 ### Reflection
-This was a little more difficult then the previous assignment in my opinion. However instructions were still given and I had a partner to help me so I still completed it without much problems.
+This was a little more difficult then the previous assignment in my opinion. However instructions were still given and I had a partner to help me so I still completed it without much problems. I learned a lot about CAD which was helpful for later assignments.
 
 ---
 
@@ -96,7 +96,7 @@ This was a little more difficult then the previous assignment in my opinion. How
 ## Multi part studio
 
 ### Description
-for this assignment I was given some dimensions and and a picture of the complete builed and was told to make this build.
+for this assignment I was given some dimensions and and a picture of the complete build and was told to make this build. This was in preperation for the certification exam.
 
 ### Evidence
 [link to document](https://cvilleschools.onshape.com/documents/d44133502557ad5d14cf2c51/w/c03f90d2cb20fa85a2514266/e/3d01c8e445044a2d7628679a)
@@ -135,6 +135,20 @@ https://cvilleschools.onshape.com/documents/ea3d7f664bbfabe1d187a226/w/043c6e08c
 ### Reflection
 This was not a very difficult assignment but it took me longer than i though it would. I got some dimensions wrong at first but quickly corrected them.
 
+## Onshape Certification
+
+### Description
+This exam was certification for Onshape. It had several parts and was very difficult for me personally. It included a single part, a multi part, an assembly and a multiple choice section.
+
+### Evidence
+https://ti-user-certificates.s3.amazonaws.com/6e557ed6-d03d-4c48-9492-4d18d145d7a1/ce7e108a-a4fc-4b93-aeb3-878229330894-matthew-bowling-1435a7fe-9155-415c-a2ac-1a1e59cea35f-certificate.pdf
+
+### Image
+![Screenshot 2023-05-15 7 07 39 PM](https://github.com/matthewbowling123/CPython/assets/112979288/6cb2fb3b-fc59-465d-a7fe-bf92572d63f7)
+
+### Refelction
+I did a lot of preperation for this exam which ended up paying off. I am thankful for all the teachers and students that helped me prepare for this. though it was tiring I ended up passing.
+
 ---
 
 
@@ -167,7 +181,7 @@ while True:
 none
 
 ### Reflection
-This assignment was very easy because there was no wiring and all it does is print hello world.
+This assignment was very easy because there was no wiring and all it does is print hello world. I did learn a little bit more about Circuit Python as well. This assignment mostly felt like set up for future CPython assignments.
 
 
 
@@ -207,7 +221,7 @@ while True:
 ![image](https://user-images.githubusercontent.com/112979288/193122380-858af000-209d-4212-bf57-06e1568c96f2.png)
 
 ### Reflection
-This assignment was a litlle more difficult then the previous one but not too hard and I learned a lot more about CPython.
+This assignment was a litlle more difficult then the previous one but not too hard and I learned a lot more about CPython. I mainly used my knowledge on how a servo is coded in Arduino and translated it into CPython. This assignment was very helpful in learning more about CPython.
 
 
 
@@ -277,7 +291,7 @@ while True:
 
 
 ### Reflection
-This assignment was very difficult but I managed to do it. It deffinatly taught me a lot about CPython.
+This assignment was very difficult but I managed to do it. It deffinatly taught me a lot about CPython. I got some help from teachers and fellow students as well because I couldent remember how LCDs worked. Ultimatly I wrote my own code but with a lot of help.
 
 
 
@@ -311,7 +325,7 @@ https://user-images.githubusercontent.com/112979288/199817203-d69ee332-9d6f-46f2
 ![image](https://user-images.githubusercontent.com/112979288/199819107-4601f0b6-d339-412a-a06d-b9a65ec0ded4.png)
 
 ### Reflection
-I had done this assignmemnt last year so I did not find it too difficult. I still did think however that it was good practice for CPython.
+I had done this assignmemnt last year so I did not find it too difficult. I still did think however that it was good practice for CPython. Thankfuly I ended up using this code in a later project so it turned out to be usefull.
 
 ## Tempreture Sensor
 
@@ -363,8 +377,8 @@ while True:
     
 ![image](https://user-images.githubusercontent.com/112979288/227623516-04ae6eea-58d4-4add-be6c-38580e40be92.png)
 
-### Credit
-credit to river for most of thiscode and video. He figured out how it works and also how to run CPython code while its github connnection was down.
+### Credit and Reflection
+credit to river for most of this code and video. He figured out how it works and also how to run CPython code while its github connnection was down. Even though the code was not mine I did learn a lot from it because it used new ideas I had not seen before.
 
 ## Rotary Encoder
 
@@ -411,7 +425,7 @@ while True:
 
 
 ### reflection
-This project was difficult to figure out, Using other peoples Githubs was easily the most helpfull part and i doubt i could have completed it without those.
+This project was difficult to figure out, Using other peoples Githubs was easily the most helpfull part and i doubt i could have completed it without those. Thankful to Grahams Github especially due to its deatiled documentation of this assignment. It also taught me a lot about CPython.
 
 ## Photointerruptor
 
@@ -442,4 +456,4 @@ while True:
 ![68747470733a2f2f726976717565732e6769746875622e696f2f646f63732f70686f746f696e74636972637569742e706e67](https://user-images.githubusercontent.com/112979288/228960276-fcf0cf46-c8bb-44de-8479-41e7e4d952da.png)
 
 ### reflection
-We did this in engineering 2 so i just did the exact same thing.
+We did this in engineering 2 so i just did the exact same thing. It was a good recap though and I am glad I did it.
