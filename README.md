@@ -2,8 +2,16 @@
 
 ---
 ## Table of Contents
+### CAD
 * [Table of Contents](#Table-of-Contents)
 * [Phone Box Project](#Phone-Box-Project)
+* [Swing Arm](#Swing-Arm)
+* [Key and Prop](#Key-and-Prop)
+* [Assembling the Launcher](#Assembling-the-Launcher)
+* [Multi part studio](#Multi-part-studio)
+* [Assembly Practice](#Assembly-Practice)
+* [Cerification prep 2](#Cerification-prep 2)
+### CPython
 
 ## Phone Box Project
 
