@@ -33,7 +33,7 @@ for this assignment, Myself and two partners of mine were asked to make abox tha
 ![Assembly 1](https://github.com/matthewbowling123/CPython/assets/112979288/76c7283a-9d4e-4ebd-b666-9f9c89d55e35)
 
 ### Reflection
-This assignment was a good exercise in reminding myself and my partners how Onshape worked. Our Solenoid ended up wired wrong and overheated resulting in a failed lock for the box. Pther than that our project went really well.
+This assignment was a good exercise in reminding myself and my partners how Onshape worked. Our Solenoid ended up wired wrong and overheated resulting in a failed lock for the box. Other than that our project went really well. I learned more about Solenoids which I had nbot really used before this.
 
 ## Swing Arm
 
@@ -52,7 +52,7 @@ for this assignment I was given a chart on some of the dimensions and was asked 
 
 ### Reflection
 
-This was a difficult assignment and I had to do it with Mr. Helmstetters help outside of class during Bacon. However now that I have finished it I learned a lot more about constraints and other tools in Onshape. This would prove very usefull for the cetification exam which had a very similer part to it.
+This was a difficult assignment and I had to do it with Mr. Helmstetters help outside of class during Bacon. However now that I have finished it I learned a lot more about constraints and other tools in Onshape. This would prove very usefull for the cetification exam which had a very similer part to it. The Constrains were especially helpful as it created the shape of the arm before adding dimensions.
 
 ---
 
@@ -71,7 +71,7 @@ For this assignment myself and a partner were given instructions for the first p
 
 ### Reflection
 
-Due to instructions being given this assignment was not too difficult. However I did learn about a few onshape shortcuts like ctr+s and shift+e
+Due to instructions being given this assignment was not too difficult. However I did learn about a few onshape shortcuts like ctr+s and shift+e. Shortcuts are helpful as they can make for a speedier and less difficult experience.
 
 ---
 
@@ -105,8 +105,7 @@ for this assignment I was given some dimensions and and a picture of the complet
 ![image](https://user-images.githubusercontent.com/112979288/197881381-daa2392d-a8fc-4f08-aa23-eb66158adc65.png)
 
 ### Reflection
-I did not finish this project by the date it was due however I still learned a lot from it. For example I learned more about the revolve tool as well as a few other tools like mirror.
----
+I did not finish this project by the date it was due however I still learned a lot from it. For example I learned more about the revolve tool as well as a few other tools like mirror. The most important thing I learned was probably section views, because you could dimension off of parts that could not be seen.---
 
 
 ## Assembly Practice
@@ -119,7 +118,7 @@ https://cvilleschools.onshape.com/documents/b95a2f911db13e47fe0d91a4/w/29ac04f78
 ![Screenshot 2023-05-04 12 16 25 PM](https://user-images.githubusercontent.com/112979288/236263480-41e1114d-d947-4ab3-8399-e69d44e1c417.png)
 
 ### Reflection
-This was the easiest of the certification assignments because Assemblies are not too difficult for me.
+This was the easiest of the certification assignments because Assemblies are not too difficult for me. I did learn about the parrallel mate which allowed me to measue specific distances for the assembly.
 
 ---
 
