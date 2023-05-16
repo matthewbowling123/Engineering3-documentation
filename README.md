@@ -133,7 +133,7 @@ https://cvilleschools.onshape.com/documents/ea3d7f664bbfabe1d187a226/w/043c6e08c
 ![Screenshot 2023-05-04 12 19 32 PM](https://user-images.githubusercontent.com/112979288/236264234-4a70d03c-2472-4a80-b10f-9addb824b86f.png)
 
 ### Reflection
-This was not a very difficult assignment but it took me longer than i though it would. I got some dimensions wrong at first but quickly corrected them.
+This was not a very difficult assignment but it took me longer than i though it would. I got some dimensions wrong at first but quickly corrected them. Though I didnt learn anything new from this, It was good practice for the exam.
 
 ## Onshape Certification
 
@@ -221,8 +221,7 @@ while True:
 ![image](https://user-images.githubusercontent.com/112979288/193122380-858af000-209d-4212-bf57-06e1568c96f2.png)
 
 ### Reflection
-This assignment was a litlle more difficult then the previous one but not too hard and I learned a lot more about CPython. I mainly used my knowledge on how a servo is coded in Arduino and translated it into CPython. This assignment was very helpful in learning more about CPython.
-
+This assignment was a little more difficult then the previous one but not too hard and I learned a lot more about CPython. I mainly used my knowledge on how a servo is coded in Arduino and translated it into CPython. It was weird having to import things like time and board but i figured it out. 
 
 
 ## CircuitPython_LCD
@@ -291,7 +290,7 @@ while True:
 
 
 ### Reflection
-This assignment was very difficult but I managed to do it. It deffinatly taught me a lot about CPython. I got some help from teachers and fellow students as well because I couldent remember how LCDs worked. Ultimatly I wrote my own code but with a lot of help.
+This assignment was very difficult but I managed to do it. It deffinatly taught me a lot about CPython. I got some help from teachers and fellow students as well because I couldent remember how LCDs worked. Ultimatly I wrote my own code but with a lot of help. I learned about things like DigitalInOut() and DirectionInput and then just used button code.
 
 
 
@@ -325,7 +324,7 @@ https://user-images.githubusercontent.com/112979288/199817203-d69ee332-9d6f-46f2
 ![image](https://user-images.githubusercontent.com/112979288/199819107-4601f0b6-d339-412a-a06d-b9a65ec0ded4.png)
 
 ### Reflection
-I had done this assignmemnt last year so I did not find it too difficult. I still did think however that it was good practice for CPython. Thankfuly I ended up using this code in a later project so it turned out to be usefull.
+I had done this assignmemnt last year so I did not find it too difficult. I still did think however that it was good practice for CPython. Thankfuly I ended up using this code in a later project so it turned out to be usefull. This also helped me relearn AnalogIn and Out.
 
 ## Tempreture Sensor
 
@@ -425,7 +424,7 @@ while True:
 
 
 ### reflection
-This project was difficult to figure out, Using other peoples Githubs was easily the most helpfull part and i doubt i could have completed it without those. Thankful to Grahams Github especially due to its deatiled documentation of this assignment. It also taught me a lot about CPython.
+This project was difficult to figure out, Using other peoples Githubs was easily the most helpfull part and i doubt i could have completed it without those. Thankful to Grahams Github especially due to its deatiled documentation of this assignment. It also taught me a lot about CPython like the rotaryio code. This assignment makes me feel safer with rotary encoders.
 
 ## Photointerruptor
 
