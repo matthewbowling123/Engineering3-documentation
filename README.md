@@ -162,7 +162,7 @@ For this assignment we were given code that prints hello world in the serial mon
 
 Here's how you make code look like code:
 
-```from time import sleep
+```pythonfrom time import sleep
 
 while True:
     print("Hello world!!!!!")
@@ -189,7 +189,8 @@ This assignment was very easy because there was no wiring and all it does is pri
 
 ### Description & Code
 this assignment was to make a servo work using curcuit python
-```# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
+```python
+# SPDX-FileCopyrightText: 2018 Kattni Rembor for Adafruit Industries
 #
 # SPDX-License-Identifier: MIT
 
@@ -228,7 +229,8 @@ This assignment was a little more difficult then the previous one but not too ha
 
 ### Description & Code
 This assignment we need to print numbers on an LCD that can count up and down using buttons.
-```# get and i2c object
+```python
+# get and i2c object
 i2c = board.I2C()
 btn = DigitalInOut(board.D3)
 btn2 = DigitalInOut(board.D4)
@@ -299,7 +301,8 @@ This assignment was very difficult but I managed to do it. It deffinatly taught 
 
 ### Description & Code
 
-```import board
+```python
+import board
 import time
 from analogio import AnalogOut, AnalogIn
 import simpleio
@@ -330,7 +333,8 @@ I had done this assignmemnt last year so I did not find it too difficult. I stil
 
 ### Description and code
 
-```import board
+```python
+import board
 import analogio
 import time
 from lcd.lcd import LCD
@@ -383,7 +387,8 @@ credit to river for most of this code and video. He figured out how it works and
 
 ### code
 again, all credit goes to River with this code. I couldent figure out the Encoder.
-```import rotaryio
+```python
+import rotaryio
 import board
 import digitalio
 import neopixel
@@ -429,7 +434,8 @@ This project was difficult to figure out, Using other peoples Githubs was easily
 ## Photointerruptor
 
 ### code
-```import time
+```python
+import time
 import digitalio
 import board
 
